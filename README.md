@@ -6,6 +6,15 @@
 --- This for my .NetFrameworks  Class. We are currently learning how to use git and version control
 
 
+
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
+
 ```
 {
   "firstName": "John",
@@ -13,3 +22,6 @@
   "age": 25
 }
 ```
+
+
+Here's a sentence with a footnote. [^1]
