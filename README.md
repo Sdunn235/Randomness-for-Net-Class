@@ -1,5 +1,5 @@
 # Randomness-for-Net-Class
-**This is for second day of .Net Class**
-*This is a change for an example*
+##**This is for second day of .Net Class**
+###*This is a change for an example*
 
 --- This for my .NetFrameworks  Class. We are currently learning how to use git and version control
